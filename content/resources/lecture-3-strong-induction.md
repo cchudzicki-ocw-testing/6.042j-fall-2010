@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Top Ten Proof Techniques Not Allowed in 6.042 ([PDF](resources/mit6_042jf10_proof))
+related_resources_text: Top Ten Proof Techniques Not Allowed in 6.042 ([PDF](/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_proof))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Strong Induction'

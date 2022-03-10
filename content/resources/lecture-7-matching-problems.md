@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: The Mating Algorithm ([PDF](resources/mit6_042jf10_mating))
+related_resources_text: The Mating Algorithm ([PDF](/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_mating))
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Matching Problems'
