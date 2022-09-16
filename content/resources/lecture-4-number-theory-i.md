@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Number Theory I'
 uid: a71dc64c-af8c-846a-0eb8-3536fdaa2f19
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Explores the basics of number theory with state machines, linear combinations, and algorithms for computation with integers.
 
 **Speaker:** Marten van Dijk
+

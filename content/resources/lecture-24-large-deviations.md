@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Large Deviations'
 uid: fd00ebc4-7d50-6409-9fe7-4db86b85c8b0
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Covers large deviation. Like expectation, it gives three other notions in solving bounds and many frequently experienced problems in computer science, such as determining the probability a random variable will deviate from its expectation.
 
 **Speaker:** Tom Leighton
+

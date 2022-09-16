@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Probability Introduction'
 uid: a579fb86-0521-a305-2cce-0f404f80fc7c
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Gives an overview of probability, including basic definitions, the Monty Hall problem, and strange dice games.
 
 **Speaker:** Tom Leighton
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Graph Theory II: Minimum Spanning Trees'
 uid: dd294d5a-a91d-79e9-2e58-2bcabb9a90e1
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Explores the various measures of connectivity of graphs and how these can be used to categorize and analyze graphs.
 
 **Speaker:** Marten van Dijk
+

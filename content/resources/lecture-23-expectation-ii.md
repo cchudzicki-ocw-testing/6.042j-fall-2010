@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Expectation II'
 uid: ffc3342f-eaa1-ee9e-66c8-d6cdbb30ca8d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Continues exploring expectation with a discussion of likelihood in cases of card games, bit transmission errors, and algorithms, and concludes with definitions of variance and standard deviation for random variables.
 
 **Speaker:** Tom Leighton
+

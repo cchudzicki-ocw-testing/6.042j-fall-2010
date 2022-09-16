@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Divide and Conquer Recurrences'
 uid: 098ba004-1cbb-6df3-83f0-decb5057952b
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Introduces the concept of recursion applied to various recurrence problems, such as the Towers of Hanoi and the Merge Sort algorithm, as well as their asymptotic analysis using the Akra–Bazzi method.
 
 **Speaker:** Tom Leighton
+

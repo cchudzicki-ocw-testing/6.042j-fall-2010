@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Sums and Asymptotics'
 uid: cf215213-a0c6-da44-f33f-b7e6725bdaf2
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Analysis of sums, formulation of asymptotic bounds using various techniques, and introduction to asymptotic notation.
 
 **Speaker:** Tom Leighton
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Graph Theory and Coloring'
 uid: fcb5da11-f57c-afc8-587e-051bab93f81f
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** An introduction to graph theory basics and intuition with applications to scheduling, coloring, and even sexual promiscuity.
 
 **Speaker:** Tom Leighton
+

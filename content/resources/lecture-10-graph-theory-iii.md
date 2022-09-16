@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Graph Theory III'
 uid: 2c381039-5169-532f-cb6b-0ee4b3c425e2
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Builds upon previous lectures to cover additional graph classifications and criteria, including tournament graphs and directed acyclic graphs. Also covers Euler Tours, Hamiltonian paths, and adjacency matrices.
 
 **Speaker:** Marten van Dijk
+

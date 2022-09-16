@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Independence'
 uid: 8e180304-50f6-7e1d-d860-281e4c93b825
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Differentiates between independent and dependent events as it pertains to probability, covering applications like coin flips, the distribution of birthdays, hashing, and cryptography.
 
 **Speaker:** Tom Leighton
+

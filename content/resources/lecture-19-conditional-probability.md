@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Conditional Probability'
 uid: 6d588b38-21ae-af00-d101-d86f29a4bacf
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Speaker:** Tom Leighton
 
 **Instructor's Note:** The actual details of the Berkeley sex discrimination case may have been different than what was stated in the lecture, so it is best to consider the description given in lecture as fictional but illustrative of the mathematical point being made.
+

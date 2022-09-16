@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction and Proofs'
 uid: db3197f7-6341-e501-7ef0-8ba6f5850f78
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Introduction to mathematical proofs using axioms and propositions. Covers basics of truth tables and implications, as well as some famous hypotheses and conjectures.
 
 **Speaker:** Tom Leighton
+

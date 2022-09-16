@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: The Mating Algorithm ([PDF](/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/mit6_042jf10_mating))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Matching Problems'
 uid: 9694c213-2f52-0ce3-ddc5-530aff3a2e4d
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Introduces the concept of matching. Discusses the mating algorithm, its fairness, and relation to practical applications.
 
 **Speaker:** Tom Leighton
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2010/cfe55d12f44c87aa20b182086f43cc02_l1BCv3qqW4A.srt
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2010/cfe55d12f44c87aa20b182086f43cc02_l1BCv3qqW4A.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

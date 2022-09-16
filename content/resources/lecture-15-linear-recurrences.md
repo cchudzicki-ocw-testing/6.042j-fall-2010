@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Linear Recurrences'
 uid: 2f2431fe-e730-cb09-e8fa-0bd8a756ecf2
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Covers the mechanics of solving general linear recurrences as well as applications to the graduate student job problem and Fibonacci modeling of populations.
 
 **Speaker:** Tom Leighton
+
